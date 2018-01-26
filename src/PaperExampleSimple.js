@@ -29,13 +29,7 @@ const PaperExampleSimple = () => (
     />
     </Paper>
    </div>
-   <div><span style={{marginLeft:280,paddingTop:10,fontFamily:"Times New Roman",fontWeight:"bold",fontSize:50,color:"#ffffff"}}>Link To NPTEL:</span>
-     <Paper style={style} zDepth={4}  >
-     <TextField
-       hintText="FIND LINK HERE!!!"
-     /><br />
-     </Paper>
-    </div>
+   
 
   </div>
 );
